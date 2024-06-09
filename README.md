@@ -2,7 +2,7 @@
 Weekend Health Take-home Challenge
 
 findWords.ts is a typescript program, it first needs to be complied into JS file to get the output.
-If `tsc` complied is already installed then use
+If `tsc` complier is already installed then use following command to compile, else install `tsc` compiler first
 ```
 tsc --target es6 findWords.ts
 ```
